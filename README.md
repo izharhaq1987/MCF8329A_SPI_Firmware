@@ -1,5 +1,6 @@
 # MCF8329A SPI Firmware for STM32 – BLDC Motor Driver Initialization
 
+[![GitHub release (latest by tag)](https://img.shields.io/github/v/release/izharhaq/MCF8329A_SPI_Firmware?label=Release&style=flat-square)](https://github.com/izharhaq/MCF8329A_SPI_Firmware/releases/tag/v1.0)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 ![Build: Simulated](https://img.shields.io/badge/build-simulation-green)
 
